@@ -6,7 +6,8 @@ A Qt-based bookshop management system with two apps: one for tracking transactio
   
 - Transaction Receiver Application: This companion application continuously listens for incoming transaction records sent via UDP. The bookshop management application can transmit an XML version of its transaction history, ensuring that records are backed up or shared with other systems.
 
----
+
+
 
 ## How to Install and Run the Project
 
@@ -19,8 +20,8 @@ A Qt-based bookshop management system with two apps: one for tracking transactio
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/jonathancs50/Bookshop-management-system-with-UDP.git
+   cd Bookshop-management-system-with-UDP
    ```
 
 2. **Open the Project in Qt Creator**
