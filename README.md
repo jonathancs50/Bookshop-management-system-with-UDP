@@ -47,7 +47,7 @@ A Qt-based bookshop management system with two apps: one for tracking transactio
 - For detailed setup or troubleshooting, refer to the [Qt documentation](https://doc.qt.io/qt-5/gettingstarted.html) and the [CMake documentation](https://cmake.org/documentation/).
 
 ---
-##License
+## License
 
 MIT License
 
